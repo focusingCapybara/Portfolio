@@ -91,8 +91,8 @@ footer p, footer a {
 
 .hero-img {
     display: inline-block;
-    height: 800px;
-    width: 800px;
+    height: 600px;
+    width: 600px;
     margin-top: 20vh;
     margin-left: 60vw;
 }
@@ -150,7 +150,7 @@ footer p, footer a {
 
 .about-me-text {
     font-size: 2rem;
-    max-width: 50ch;
+    max-width: 40ch;
 }
 
 
